@@ -4,3 +4,7 @@ npx expo start --tunnel
 
 # How to off the server 
 strg + c 
+
+# test
+
+test 1 try 
